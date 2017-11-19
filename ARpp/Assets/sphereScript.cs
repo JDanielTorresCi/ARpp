@@ -8,7 +8,7 @@ public class sphereScript : MonoBehaviour {
 	public GameObject spawnPoint;
 	// Use this for initialization
 	void Start () {
-		
+//		transform.position = spawnPoint.transform.position;
 	}
 	
 	// Update is called once per frame
